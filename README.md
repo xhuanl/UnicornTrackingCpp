@@ -2,7 +2,7 @@ This application prints the result of the closest points to the designated point
 
 It contains the following files:
 
-Unicorn.java:
+Unicorn.cpp:
 
 The entry point of the application. It reads, parses and validates the input, calls the 
 Search.cpp to search the points and print out the results.
